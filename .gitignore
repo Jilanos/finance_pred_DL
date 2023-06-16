@@ -1,0 +1,6 @@
+
+env/*
+__pycache__/*
+_temp/*
+Results/*
+apiKeys.py
